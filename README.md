@@ -1,5 +1,5 @@
 # CCSU-Campus-Information-App
-For this project, I created a CCSU information app using Python and Tkinter. I wanted to make a simple application where students could click different buttons to view school information.
+For this project, It was a midterm project where  I created a CCSU information app using Python and Tkinter. 
 
 **What the app includes:**
 Fall 2026 academic calendar
